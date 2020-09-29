@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="100" viewBox="0 0 130 100">
+  <g id="グループ_100" data-name="グループ 100" transform="translate(-350)">
+    <g id="コンポーネント_21_2" data-name="コンポーネント 21 – 2" transform="translate(350)">
+      <rect id="長方形_67" data-name="長方形 67" width="130" height="100" fill="#4e8481"/>
+    </g>
+    <g id="グループ_63" data-name="グループ 63" transform="translate(-1436.511 -7084)">
+      <g id="長方形_68" data-name="長方形 68" transform="translate(1822.511 7114)" fill="none" stroke="#fff" stroke-width="3">
+        <rect width="58" height="41" rx="7" stroke="none"/>
+        <rect x="1.5" y="1.5" width="55" height="38" rx="5.5" fill="none"/>
+      </g>
+      <path id="パス_46" data-name="パス 46" d="M0-1.732l27.691,18,27.691-18" transform="translate(1823.899 7119.732)" fill="none" stroke="#fff" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
